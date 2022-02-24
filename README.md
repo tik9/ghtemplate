@@ -11,19 +11,19 @@
 
 ### Tools needed
 - Vscode
-- Python
+- 
 
 <br>
 
 ### Contents
-- [](.py)
+- [](.js)
 - [](.html)
 - []()
 
 <br>
 
-#### Things I learn
+#### Learned
 
- Tool        | About                                                                                             |
- ----------- | ------------------------
-tool1 | about1
+ | Tool  | About  |
+ | ----- | ------ |
+ |  |  |
