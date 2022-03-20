@@ -1,0 +1,26 @@
+#!/bin/bash
+
+bold=$(tput bold)
+normal=$(tput sgr0)
+file=.env
+
+echo $bold start post checkout $normal
+
+if [[ $3 -eq 1 ]]; then 
+    # git merge master
+    # echo $bold ls-files $normal
+    # git ls-files
+    echo $bold status $normal
+    git status
+    # sed -i '/$file/d' .gitignore
+    # echo $bold status after .env remove $normal
+    # git status
+
+    echo $bold branch checkouted, restore .env $normal
+    # git checkout $(git rev-list -n 1 HEAD -- "$file")^ -- "$file"
+    # git add .
+else 
+    echo $bold checkoutType 0 file
+ fi
+
+echo finish post checkout

@@ -7,10 +7,10 @@
 1. Start
 2. Continue
 3. Finished?
+
 <br>
 
 ### Tools needed
-- Vscode
 - 
 
 <br>
@@ -22,8 +22,14 @@
 
 <br>
 
-#### Learned
+### Learned
 
- | Tool  | About  |
- | ----- | ------ |
- |  |  |
+  Tool  | About  |
+  ----- | ------ |
+    
+<br>
+
+### Todo
+
+ Page|Todo 
+ ----|----
