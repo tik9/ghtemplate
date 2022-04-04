@@ -4,9 +4,8 @@
 <br>
 
 ### Steps to reach Goal
-1. Start
-2. Continue
-3. Finished?
+1. 
+2. 
 
 <br>
 
@@ -20,13 +19,6 @@
 - [](.html)
 - []()
 
-<br>
-
-### Learned
-
-  Tool  | About  |
-  ----- | ------ |
-    
 <br>
 
 ### Todo
